@@ -3,7 +3,7 @@
 Local clone of **Firecrawl**, packaged as a **Claude Code skill**. Web search and extraction,
 **no API key required**, built to save as much context tokens as possible.
 
-![Mach2 explainer animation](screenshots/mach2-explainer.gif)
+<img src="screenshots/mach2-explainer.gif" alt="Mach2 explainer animation" width="100%">
 
 The idea: instead of dumping raw HTML into the LLM's context, Mach2 extracts the **main content
 as clean markdown**, **writes it to files**, and only returns a **compact summary** to the
